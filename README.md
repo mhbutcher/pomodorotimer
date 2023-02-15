@@ -11,6 +11,7 @@ Uses CustomTkinter and plyer for display/notifications
 ## Screenshots
 
 ![App Screenshot](preview.png)
+![App Screenshot](preview_two.png)
 
 
 ## Installation
