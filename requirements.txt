@@ -1,0 +1,3 @@
+customtkinter==5.1.2
+darkdetect==0.8.0
+plyer==2.1.0
